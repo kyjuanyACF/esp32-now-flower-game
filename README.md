@@ -4,7 +4,7 @@ Made collaboratively by Kyjuany Cintron & Tiffany Yaxi Tu
  
 A two-player button smashing game for the ESP32. One player adds water, the other adds sunlight, so together you grow a plant from a seed to a flower.
  
-📄 [Full documentation](https://kyjuanyacf.github.io/creative_embedded_systems/)
+[Full documentation](https://kyjuanyacf.github.io/creative_embedded_systems/)
  
 ## How it works
  
